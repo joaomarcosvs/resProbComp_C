@@ -40,8 +40,8 @@ int main(){
     		
 		} // esse fecha o switch
 		
-	}while (opcao != 0); //menu dos guri
+	}while (opcao != 0); 
 
 	return 0;
 	
-} //menu principal, dos guri
+} 
